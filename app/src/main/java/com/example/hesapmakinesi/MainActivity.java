@@ -13,10 +13,6 @@ import java.util.Arrays;
 
 public class MainActivity extends AppCompatActivity {
 
-    private float ilkDeger =0;
-    private double sonuc=0;
-    private String islem;
-
     private ActivityMainBinding binding;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
